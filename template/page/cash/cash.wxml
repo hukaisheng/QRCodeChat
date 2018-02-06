@@ -1,0 +1,14 @@
+<view class="c-minheight wx-view_wallet_1" data-c_e_id="wx_view_86db7491">
+    <view class="c-minheight wx-view_aDQMXx" data-c_e_id="wx_view_1e338496">
+        <text class="c-block wx-text_vOt7DM" data-c_e_id="wx_text_7fb17c00">¥</text>
+        <input auto-focus="True" autofocus="True" class="c-block c-fullwidth wx-input_jM7Nqx" data-c_e_id="wx_input_e9b9f113" disabled="True" maxlength="10" name="input1" placeholder="请输入提现金额，最低2元，最高2万" type="number"/>
+    </view>
+    <view class="c-minheight wx-view_aFLbiN" data-c_e_id="wx_view_c1a0da2a">
+        <text class="c-block wx-text_NYQiw4" data-c_e_id="wx_text_27ad21d2">账户余额¥3209</text>
+        <text class="c-block wx-text_9GH6MV" data-c_e_id="wx_text_c987d850">全部提现</text>
+    </view>
+    <button catchtap="tap_4e40996b" class="wx-button_1PNXDI" data-c_act_id="M_a65777145b48dbb0" data-c_e_id="wx_button_6741b380" form-type="submit" hover-class="button-hover" size="default" type="primary">
+        提现
+    </button>
+    <text class="c-block wx-text_Hcnabb" data-c_e_id="wx_text_566f4287">每天可提现一次</text>
+</view>
