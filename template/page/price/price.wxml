@@ -1,0 +1,12 @@
+<view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
+    <view animation="{{wx_view_157c625e.animation}}" class="c-minheight wx-view_X2wapj {{wx_view_157c625e.class}}" data-c_e_id="wx_view_157c625e" style="">
+        <text class="c-block wx-text_IPeBq7" data-c_e_id="wx_text_8406005a">保存成功</text>
+    </view>
+    <view class="c-minheight wx-view_F3pWrb6" data-c_e_id="wx_viewaefc72a0">
+        <input class="c-block c-fullwidth wx-input_6MB9hn2" data-c_e_id="wx_input_f3dcdf90" maxlength="5" name="input1" placeholder="9" type="number"/>
+        <text class="c-block wx-text_CEX6YY" data-c_e_id="wx_text_75fa7893">元/次</text>
+    </view>
+    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_8072aee9335ed625|M_30d5d50126292973" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
+        保存
+    </button>
+</view>

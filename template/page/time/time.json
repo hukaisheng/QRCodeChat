@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black", 
+  "navigationBarBackgroundColor": "#ffffff", 
+  "navigationBarTitleText": "设置聊天时长", 
+  "backgroundColor": "#ffffff", 
+  "enablePullDownRefresh": false, 
+  "backgroundTextStyle": "dark"
+}

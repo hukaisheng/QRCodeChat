@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black", 
+  "navigationBarBackgroundColor": "#ffffff", 
+  "navigationBarTitleText": "设置个人简介", 
+  "backgroundColor": "#ffffff", 
+  "enablePullDownRefresh": false, 
+  "backgroundTextStyle": "dark"
+}

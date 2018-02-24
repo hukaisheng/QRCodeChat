@@ -1,0 +1,45 @@
+<view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
+    <view class="c-minheight wx-view_F3pWrb5" data-c_e_id="wx_view_e6f47942">
+        <view class="c-minheight wx-view_ShFtoE" data-c_e_id="wx_view_6aaecbba">
+            <text class="c-block wx-text_1iHxiJ" data-c_e_id="wx_text_5fc23328">头像</text>
+            <view class="c-minheight wx-view_vlXxhR" data-c_e_id="wx_view322f9912">
+                <image class="wx-image_bporTx" data-c_e_id="wx_image_62316293" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/94d5ad81db14955aa5ed3b20a25a58d6_origin.jpg" style="background-size:  contain; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/94d5ad81db14955aa5ed3b20a25a58d6_origin.jpg); "/>
+                <text class="c-block wx-text_bZC8qw" data-c_e_id="wx_textbab48f42">❯</text>
+            </view>
+        </view>
+        <view catchtap="tap_f44115a2" class="c-minheight wx-view_ShFtoE2" data-c_act_id="M_62c052135d33728c" data-c_e_id="wx_view5c04c638">
+            <text class="c-block wx-text_1iHxiJ" data-c_e_id="wx_text48226c26">名字</text>
+            <view class="c-minheight wx-view_vlXxhR" data-c_e_id="wx_view_f88d6614">
+                <text class="c-block wx-text_8gEMkt" data-c_e_id="wx_text_6bc27b86">张继科</text>
+                <text class="c-block wx-text_bZC8qw" data-c_e_id="wx_text_d4c1649e">❯</text>
+            </view>
+        </view>
+        <view catchtap="tap_511beba0" class="c-minheight wx-view_ShFtoE3" data-c_act_id="M_8e4536febf783fad" data-c_e_id="wx_view94fdfa7b">
+            <text class="c-block wx-text_1iHxiJ" data-c_e_id="wx_textbfb29a9c">个人简介</text>
+            <view class="c-minheight wx-view_vlXxhR" data-c_e_id="wx_viewc5c0c8ba">
+                <text class="c-block c-ellipse wx-text_8gEMkt" data-c_e_id="wx_text6719873a">很高兴能得到你的认可，欢迎您咨询或交流！</text>
+                <text class="c-block wx-text_bZC8qw" data-c_e_id="wx_textf6bb0e33">❯</text>
+            </view>
+        </view>
+    </view>
+    <view catchtap="tap_00b109d3" class="c-minheight wx-view_F3pWrb" data-c_act_id="M_f3e6ce178b2db093" data-c_e_id="wx_vieweb9f5613">
+        <view class="c-minheight wx-view_ShFtoE3" data-c_e_id="wx_viewc7db7597">
+            <text class="c-block wx-text_1iHxiJ" data-c_e_id="wx_text063f410d">聊天时长</text>
+            <view class="c-minheight wx-view_vlXxhR" data-c_e_id="wx_view22b87853">
+                <text class="c-block c-ellipse wx-text_8gEMkt" data-c_e_id="wx_text28015c20">20分钟/次</text>
+                <text class="c-block wx-text_bZC8qw" data-c_e_id="wx_texte3e1bbeb">❯</text>
+            </view>
+        </view>
+    </view>
+    <text class="c-block wx-text_Mwkglu" data-c_e_id="wx_text_283cc8c8">时长到，双方就不能互发消息了</text>
+    <view catchtap="tap_9b20e7a5" class="c-minheight wx-view_F3pWrb" data-c_act_id="M_a8ef53db56d3f7c6" data-c_e_id="wx_viewaefc72a0">
+        <view class="c-minheight wx-view_ShFtoE3" data-c_e_id="wx_viewf7fa13c3">
+            <text class="c-block wx-text_1iHxiJ" data-c_e_id="wx_textd8891674">价格</text>
+            <view class="c-minheight wx-view_vlXxhR" data-c_e_id="wx_view09734a94">
+                <text class="c-block c-ellipse wx-text_8gEMkt" data-c_e_id="wx_text59209f00">9元/次</text>
+                <text class="c-block wx-text_bZC8qw" data-c_e_id="wx_text89db5132">❯</text>
+            </view>
+        </view>
+    </view>
+    <text class="c-block wx-text_Mwkglu" data-c_e_id="wx_text2563c522">每次和你聊天需要支付的金额</text>
+</view>

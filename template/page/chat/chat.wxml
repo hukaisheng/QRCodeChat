@@ -1,0 +1,159 @@
+<view class="c-minheight wx-view_9Ri7JT {{wx_view_8deee0fb.class}}" data-c_e_id="wx_view_8deee0fb">
+    <view catchtap="tap_6c26432f" class="c-minheight wx-view_Ekwnbf" data-c_act_id="M_11dbf0053c66039c" data-c_e_id="wx_view_af6bcb5f">
+        <image class="wx-image_SKRzYE" data-c_e_id="wx_image_160d8d89" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png); "/>
+        <text class="c-block wx-text_fn1yTj" data-c_e_id="wx_text_318372c4">录音中，松手发送</text>
+    </view>
+</view>
+<view class="c-minheight wx-view_mHOfIk" data-c_e_id="wx_view_738b68ab">
+    <view catchtap="tap_57b6b0f3" class="c-minheight wx-view_soKcAk {{wx_view_d850ca03.class}}" data-c_act_id="M_c2a672c30500d219|M_9ded7eddc11d4690|M_cc8f5b39cb885417" data-c_e_id="wx_view_d850ca03">
+        <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text_3417c415">总时长</text>
+        <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text1a257e78">24小时</text>
+        <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_texteff675ee">剩余时长</text>
+        <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text85c91831">22小时03分09秒</text>
+    </view>
+    <scroll-view class="c-minheight wx-scroll-view_bUMNfG {{wx_scroll_view_9ea2ddf9.class}}" data-c_e_id="wx_scroll_view_9ea2ddf9" lower-threshold="50" scroll-y="True" style="overflow-x:   hidden; overflow-y: auto; " upper-threshold="50">
+        
+        <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_viewc249e1f2">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewaf0297c1">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_texte3942676">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewabb3272f">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text05bb228d">开始聊天</text>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_view_c94bea9a">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_view_1c7cc80b">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text_e65dea4d">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a" data-c_e_id="wx_view_1e8fdbd5">
+                <text class="c-block wx-text_MoqCat" data-c_e_id="wx_text_f033aef9">意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在</text>
+                <view class="c-minheight wx-view_IdZPKh2" data-c_e_id="wx_view_c043202e">
+                    <view class="c-minheight wx-view_IdZPKh" data-c_e_id="wx_view01312407"/>
+                </view>
+                <image catchtap="tap_44db4968" class="wx-image_utrtQU" data-c_act_id="M_7951da280d4bb7fd" data-c_e_id="wx_image_a34ae164" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg" style="background-size:   contain; background-position:   center center; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg); "/>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_viewe7526cdd">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewd6587bef">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text70470ecf">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a" data-c_e_id="wx_viewe9866738">
+                <text class="c-block wx-text_MoqCat" data-c_e_id="wx_textcd656610">GOOD</text>
+                <view class="c-minheight wx-view_IdZPKh2" data-c_e_id="wx_viewa85da65e">
+                    <view class="c-minheight wx-view_IdZPKh" data-c_e_id="wx_viewdb6d2c95"/>
+                </view>
+                <image catchtap="tap_8b510736" class="wx-image_utrtQU" data-c_act_id="M_d72722fa5d451888" data-c_e_id="wx_image430eccdb" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg" style="background-size:   contain; background-position:   center center; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg); "/>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_viewc3c4c82a">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewbf23f75a">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text1ab7eac2">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a" data-c_e_id="wx_viewc74e9f95">
+                <image class="wx-image_qwvtgV" data-c_e_id="wx_imageeebb0654" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/0ee19088e4452bdcb8ffe8f7cf94b640_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/0ee19088e4452bdcb8ffe8f7cf94b640_origin.png); "/>
+                <image catchtap="tap_129f5a04" class="wx-image_utrtQU" data-c_act_id="M_9fd1d7a037eb6ea8" data-c_e_id="wx_image3e16ee53" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg" style="background-size:   contain; background-position:   center center; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/abbc7d74204b4c38c512e6782e9ed612_origin.jpg); "/>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF2" data-c_e_id="wx_viewbc6a1485">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_view9c19fe5c">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_texteaf01ccc">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a2" data-c_e_id="wx_view65ff5609">
+                <image catchtap="tap_595cf579" class="wx-image_utrtQU" data-c_act_id="M_f6affbce430553b6" data-c_e_id="wx_image8b2f6d61" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg" style="background-size:  contain; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg); "/>
+                <view class="c-minheight wx-view_IdZPKh3" data-c_e_id="wx_viewaf046d4a">
+                    <view class="c-minheight wx-view_IdZPKh4" data-c_e_id="wx_view50280fc1"/>
+                </view>
+                <text class="c-block wx-text_MoqCat2" data-c_e_id="wx_textd49258d2">意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在意派使用浏览器在</text>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF2" data-c_e_id="wx_view924f2d86">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_view5595cc53">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_textb91e614a">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a2" data-c_e_id="wx_view8b55fa4a">
+                <image catchtap="tap_214bc839" class="wx-image_utrtQU" data-c_act_id="act_30cf5ba2" data-c_e_id="wx_imagea5f361f1" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg" style="background-size:  contain; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg); "/>
+                <image class="wx-image_qwvtgV2" data-c_e_id="wx_image_213f74bd" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/5f5301e7b977e2c54eea06048f300759_origin.png" style="background-size: 100% 100%; background-position: 0% 0%; background-repeat: no-repeat; background-image:   url(http://qty83k.creatby.com/materials/99591/origin/5f5301e7b977e2c54eea06048f300759_origin.png); "/>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF2" data-c_e_id="wx_view0f29745f">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_view2a41f4be">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text8a20d22d">2018年1月31日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_KGK91a2" data-c_e_id="wx_view9e8ccdd8">
+                <image catchtap="tap_3e79f052" class="wx-image_utrtQU" data-c_act_id="M_3b87b88424dfde4f" data-c_e_id="wx_image46b6e1cd" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg" style="background-size:  contain; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/c61616e725ae192b396d4f1d40efaa04_origin.jpg); "/>
+                <view class="c-minheight wx-view_IdZPKh3" data-c_e_id="wx_view8403533e">
+                    <view class="c-minheight wx-view_IdZPKh4" data-c_e_id="wx_view9c830ebe"/>
+                </view>
+                <text class="c-block wx-text_MoqCat2" data-c_e_id="wx_textf374ef11">好用</text>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_view642f79e1">
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewaeba1289">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_text364e3b76">2018年2月1日 18:20</text>
+            </view>
+            <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewba40804f">
+                <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_textd950ab30">聊天结束</text>
+            </view>
+        </view>
+    </scroll-view>
+    <view class="c-minheight wx-view_liaotian {{wx_view_42cb08a3.class}}" data-c_e_id="wx_view_42cb08a3">
+        <view class="c-minheight wx-view_Iuz6ZT" data-c_e_id="wx_view09b16569">
+            <view class="c-minheight wx-view_JAR4Yi {{wx_view_9c8107ac.class}}" data-c_e_id="wx_view_9c8107ac">
+                <text class="c-block wx-text_vkDzur" data-c_e_id="wx_text_7cbb369b">聊天时长到，重购后接着聊</text>
+            </view>
+            <view class="c-minheight wx-view_mf8Ovy2" data-c_e_id="wx_view01ed8d4b">
+                <view catchtap="tap_6f3c8964" class="c-minheight wx-view_XAoeKx01 {{wx_viewe55bf221.class}}" data-c_act_id="act_c2230031|act_d420a767|M_084eaa8686e3d6b8|M_fa4e158e983dea02" data-c_e_id="wx_viewe55bf221">
+                    <image class="wx-image_2ftFzY2" data-c_e_id="wx_imaged68e6a81" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/cf7e5b866da27dd7dde05d04588382a2_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/cf7e5b866da27dd7dde05d04588382a2_origin.png); "/>
+                </view>
+                <view catchtap="tap_965d06eb" class="c-minheight wx-view_XAoeKx2 {{wx_view8cd11a2a.class}}" data-c_act_id="act_6ec222d9|act_8438df26|M_3e7cd028e1ffc3fa" data-c_e_id="wx_view8cd11a2a">
+                    <image class="wx-image_2ftFzY3" data-c_e_id="wx_image321aac43" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/160c36b41d3a0caa7ad01b96161ba84e_origin.png" style="background-size:   100% 100%; background-position:   0% 0%; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/160c36b41d3a0caa7ad01b96161ba84e_origin.png); "/>
+                </view>
+            </view>
+            <view catchtap="tap_d7ea1607" class="c-minheight wx-view_mf8Ovy3" data-c_act_id="M_ec631e1c2ba9f895|M_7dd84458cfd2090e|M_eefa3cbf36653e02|M_45df45332b7eb4ae" data-c_e_id="wx_view5ffe9020">
+                <view catchtap="tap_b820128b" class="c-minheight wx-view_XAoeKx011 {{wx_view49d4c5f1.class}}" data-c_e_id="wx_view49d4c5f1">
+                    <input class="c-block c-fullwidth wx-input_qvPXwj {{wx_input_7c7758e2.class}}" data-c_e_id="wx_input_7c7758e2" name="input1" type="text"/>
+                </view>
+                <view catchtap="tap_be3b7025" class="c-minheight wx-view_XAoeKx21 {{wx_view3f39858e.class}}" data-c_act_id="M_796f991519cc56b1|M_e30b17c0b1a6e6fb" data-c_e_id="wx_view3f39858e">
+                    <button class="wx-button_xzADzG3" data-c_e_id="wx_button_9598c972" hover-class="button-hover" size="default" type="default">
+                        按下 说话
+                    </button>
+                </view>
+            </view>
+            <view class="c-minheight wx-view_mf8Ovy2" data-c_e_id="wx_viewd9ff53f4">
+                <view catchtap="tap_930622c3" class="c-minheight wx-view_XAoeKx01 {{wx_view557b50d6.class}}" data-c_act_id="act_96d71626|act_23f80c32|M_7fcd7eb74752c02f|M_cdaebb93324c9b5c" data-c_e_id="wx_view557b50d6">
+                    <image class="wx-image_2ftFzY2" data-c_e_id="wx_image984a7adb" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/84197d9954aa8bd50ed93232da836dae_origin.png" style="background-size:     100% 100%; background-position:     0% 0%; background-repeat:     no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/84197d9954aa8bd50ed93232da836dae_origin.png); "/>
+                </view>
+                <view catchtap="tap_7ba99391" class="c-minheight wx-view_XAoeKx2 {{wx_view5cc2a40c.class}}" data-c_act_id="act_4ee3ac4f|act_42ffe4df|M_cb1a2d2032636997|M_b66a2a88ca944a5a" data-c_e_id="wx_view5cc2a40c">
+                    <image class="wx-image_2ftFzY3" data-c_e_id="wx_image466d508c" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/160c36b41d3a0caa7ad01b96161ba84e_origin.png" style="background-size:   100% 100%; background-position:   0% 0%; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/160c36b41d3a0caa7ad01b96161ba84e_origin.png); "/>
+                </view>
+            </view>
+            <view class="c-minheight wx-view_mf8Ovy2" data-c_e_id="wx_view8ab064c9">
+                <view catchtap="tap_8cf7ab65" class="c-minheight wx-view_XAoeKx01 {{wx_view_13b0553f.class}}" data-c_act_id="M_3a868caf4e0ddb17|M_fe1407b79ce27909|M_7555cd0d4d7566d3|M_8998f2db453d7df5" data-c_e_id="wx_view_13b0553f">
+                    <image class="wx-image_2ftFzY2" data-c_e_id="wx_image_0e611123" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/756b015577a1253046f34ea7dd0729c9_origin.png" style="background-size:   100% 100%; background-position:   0% 0%; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/756b015577a1253046f34ea7dd0729c9_origin.png); "/>
+                </view>
+                <view catchtap="tap_503d90d0" class="c-minheight wx-view_XAoeKx2 {{wx_view441fbf20.class}}" data-c_act_id="M_d5907a7ff628ecd0|M_f60c599fa5f42bca|M_ab574463762ddf53|M_a52edd3540001f85" data-c_e_id="wx_view441fbf20">
+                    <image class="wx-image_2ftFzY3" data-c_e_id="wx_image47c3e949" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/756b015577a1253046f34ea7dd0729c9_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/756b015577a1253046f34ea7dd0729c9_origin.png); "/>
+                </view>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_AzfhgX {{wx_view_995b4a9f.class}}" data-c_e_id="wx_view_995b4a9f">
+            <view class="c-minheight wx-view_FodBU9" data-c_e_id="wx_view_d8c5986b">
+                <view class="c-minheight wx-view_sya5Zp" data-c_e_id="wx_view_58ddd0f5">
+                    <image class="wx-image_EeyhmR" data-c_e_id="wx_image_a46ad47d" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/bfdd62fe596ecc65e00725c3c3d612e9_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/bfdd62fe596ecc65e00725c3c3d612e9_origin.png); "/>
+                </view>
+                <text class="c-block wx-text_uxbKDa" data-c_e_id="wx_text_cabc65fa">照片</text>
+            </view>
+            <view class="c-minheight wx-view_FodBU9" data-c_e_id="wx_view181c31e8">
+                <view class="c-minheight wx-view_sya5Zp" data-c_e_id="wx_view86d9b98b">
+                    <image class="wx-image_EeyhmR" data-c_e_id="wx_imagece62e76d" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/6441dbde2de938e254b442c4eef45b14_origin.png" style="background-size:   100% 100%; background-position:   0% 0%; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/6441dbde2de938e254b442c4eef45b14_origin.png); "/>
+                </view>
+                <text class="c-block wx-text_uxbKDa" data-c_e_id="wx_text46eb155d">拍摄</text>
+            </view>
+        </view>
+        <view class="c-minheight wx-view_AzfhgX2 {{wx_viewa557b8d1.class}}" data-c_e_id="wx_viewa557b8d1">
+            <view class="c-minheight wx-view_FodBU90" data-c_e_id="wx_view98f540fc">
+                <image class="wx-image_EeyhmR2" data-c_e_id="wx_image6c67ca63" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/84197d9954aa8bd50ed93232da836dae_origin_dYBSCg1.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/84197d9954aa8bd50ed93232da836dae_origin_dYBSCg1.png); "/>
+            </view>
+        </view>
+    </view>
+</view>

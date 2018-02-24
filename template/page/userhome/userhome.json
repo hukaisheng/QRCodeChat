@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black", 
+  "navigationBarBackgroundColor": "#ffffff", 
+  "navigationBarTitleText": "码上聊", 
+  "backgroundColor": "#ffffff", 
+  "enablePullDownRefresh": false, 
+  "backgroundTextStyle": "dark"
+}

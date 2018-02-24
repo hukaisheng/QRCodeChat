@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black", 
+  "navigationBarBackgroundColor": "#ffffff", 
+  "navigationBarTitleText": "聊天对象名字", 
+  "backgroundColor": "#ffffff", 
+  "enablePullDownRefresh": false, 
+  "backgroundTextStyle": "dark"
+}

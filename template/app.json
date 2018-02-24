@@ -1,0 +1,63 @@
+{
+  "debug": true, 
+  "window": {
+    "navigationBarTextStyle": "black", 
+    "navigationBarBackgroundColor": "#ffffff", 
+    "navigationBarTitleText": "\u804a\u5929\u7801", 
+    "backgroundColor": "#bdbdbd", 
+    "enablePullDownRefresh": false, 
+    "backgroundTextStyle": "dark"
+  }, 
+  "pages": [
+    "page/code/code", 
+    "page/news/news", 
+    "page/personal/personal", 
+    "page/wallet/wallet", 
+    "page/account/account", 
+    "page/income/income", 
+    "page/withdrawals/withdrawals", 
+    "page/chat/chat", 
+    "page/userhome/userhome", 
+    "page/user/user", 
+    "page/cash/cash", 
+    "page/success/success", 
+    "page/scene/scene", 
+    "page/set/set", 
+    "page/name/name", 
+    "page/introduction/introduction", 
+    "page/price/price", 
+    "page/time/time"
+  ], 
+  "tabBar": {
+    "color": "#7F8389", 
+    "selectedColor": "#09BB07", 
+    "borderStyle": "white", 
+    "list": [
+      {
+        "text": "\u804a\u5929\u7801", 
+        "pagePath": "page/code/code", 
+        "iconPath": "resources/c27d77744cc5ebd3d8583a0267575217.png", 
+        "selectedIconPath": "resources/b314237ab2a932f6af4d627156bd4f94.png"
+      }, 
+      {
+        "text": "\u6d88\u606f", 
+        "pagePath": "page/news/news", 
+        "iconPath": "resources/03f29c442e6431734c3d8af95964fbd5.png", 
+        "selectedIconPath": "resources/43f8dc3798f3a5fa4a1c13e616041929.png"
+      }, 
+      {
+        "text": "\u6211", 
+        "pagePath": "page/personal/personal", 
+        "iconPath": "resources/6101914490cc6a76875235b6e21fd863.png", 
+        "selectedIconPath": "resources/783c083c0bd7f8aead13114c962cca2f.png"
+      }
+    ], 
+    "backgroundColor": "#F7F7FA"
+  }, 
+  "networkTimeout": {
+    "connectSocket": "", 
+    "request": "", 
+    "downloadFile": "", 
+    "uploadFile": ""
+  }
+}

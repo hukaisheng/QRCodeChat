@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "white", 
+  "navigationBarBackgroundColor": "#09bb07", 
+  "navigationBarTitleText": "使用演示", 
+  "backgroundColor": "#bdbdbd", 
+  "enablePullDownRefresh": false, 
+  "backgroundTextStyle": "dark"
+}

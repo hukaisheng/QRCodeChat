@@ -1,0 +1,23 @@
+<view class="c-minheight wx-view_BWSl4x" data-c_e_id="wx_view_0fe80c98">
+    <view catchtap="tap_8322992a" class="c-minheight wx-view_i0KVXC" data-c_act_id="M_407535c96d232bc4" data-c_e_id="wx_view_b1053d51">
+        <view class="c-minheight wx-view_7yc1ae" data-c_e_id="wx_view_637b032b">
+            <text class="c-block c-ellipse wx-text_qjwF2T" data-c_e_id="wx_text_c0f3f4b5">提现</text>
+            <text class="c-block wx-text_Qwk5Bg" data-c_e_id="wx_text_167d6cfe">2018-01-19 17:49:00</text>
+        </view>
+        <text class="c-block wx-text_43I5KV2" data-c_e_id="wx_text_96c25791">- 26.00</text>
+    </view>
+    <view catchtap="tap_8f13e62c" class="c-minheight wx-view_i0KVXC" data-c_act_id="M_6ac1edf54e95abf6" data-c_e_id="wx_viewc1fb2897">
+        <view class="c-minheight wx-view_7yc1ae" data-c_e_id="wx_viewf25414cd">
+            <text class="c-block c-ellipse wx-text_qjwF2T" data-c_e_id="wx_text1e922ad4">聊天码收入-王小明</text>
+            <text class="c-block wx-text_Qwk5Bg" data-c_e_id="wx_text0f17f0f2">2018-01-19 17:49:00</text>
+        </view>
+        <text class="c-block wx-text_43I5KV" data-c_e_id="wx_text58562a7c">+ 260.00</text>
+    </view>
+    <view catchtap="tap_d6012d2b" class="c-minheight wx-view_i0KVXC" data-c_act_id="M_732f9390b9a183bc" data-c_e_id="wx_view256575f3">
+        <view class="c-minheight wx-view_7yc1ae" data-c_e_id="wx_view4db24eed">
+            <text class="c-block c-ellipse wx-text_qjwF2T" data-c_e_id="wx_texte0531acb">聊天码收入-王小明</text>
+            <text class="c-block wx-text_Qwk5Bg" data-c_e_id="wx_text02051140">2018-01-19 17:49:00</text>
+        </view>
+        <text class="c-block wx-text_43I5KV" data-c_e_id="wx_textbced79b4">+ 26.00</text>
+    </view>
+</view>

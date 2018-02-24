@@ -1,0 +1,21 @@
+<view class="c-minheight wx-view_GOKcmE" data-c_e_id="wx_view_c54039c1">
+    <view class="c-minheight wx-view_mi81RQ" data-c_e_id="wx_view_5cfa1fa4">
+        <view class="c-minheight wx-view_WTvbM1" data-c_e_id="wx_view_00a2fcf4">
+            <image class="wx-image_djQhPf" data-c_e_id="wx_image_bec38ebc" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/4c21f4073af1545a575ea6ccfa1b89b8_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/4c21f4073af1545a575ea6ccfa1b89b8_origin.png); "/>
+            <image class="wx-image_3u3gEN" data-c_e_id="wx_image_6b068f1a" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/f2f9c50dca4ef17c508acd317f2ea856_origin.png" style="background-size: contain; background-position: center center; background-repeat: no-repeat; background-image:  url(http://qty83k.creatby.com/materials/99591/origin/f2f9c50dca4ef17c508acd317f2ea856_origin.png); "/>
+            <image class="wx-image_VdnqD6" data-c_e_id="wx_image_a8f7b833" mode="aspectFit" src="http://qty83k.creatby.com/materials/99591/origin/013dba93eb36912aa76891151fb57575_origin.png" style="background-size: contain; background-position: center center; background-repeat: no-repeat; background-image:         url(http://qty83k.creatby.com/materials/99591/origin/013dba93eb36912aa76891151fb57575_origin.png); "/>
+        </view>
+        <view class="c-minheight wx-view_iv1cLN" data-c_e_id="wx_view_13f736f6">
+            <text class="c-block wx-text_ju5iHy" data-c_e_id="wx_text_778d302f">识别聊天码 咨询或交流</text>
+        </view>
+    </view>
+    <view class="wx-view_adF7Mw" data-c_e_id="wx_viewcaf8ff57">
+        <text catchtap="tap_b648ceaf" class="c-block wx-text_9Wn0Di" data-c_act_id="M_662cdb92291e10ee" data-c_e_id="wx_textc31a0c2d">聊天设置</text>
+        <text class="c-block wx-text_9Wn0Di2" data-c_e_id="wx_text22aabd2b">|</text>
+        <text catchtap="tap_6c69333a" class="c-block wx-text_9Wn0Di" data-c_act_id="M_c406a2cef2c94873" data-c_e_id="wx_texteb398223">使用演示</text>
+    </view>
+    <button catchtap="tap_a0a006c6" class="wx-button_code" data-c_act_id="M_ead5cd33049ba183|M_441db3a922a89557" data-c_e_id="wx_button_de9180e1" hover-class="button-hover" size="default" type="primary">
+        生成我的聊天码
+        <br/>
+    </button>
+</view>
