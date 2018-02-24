@@ -1,8 +1,0 @@
-{
-  "navigationBarTextStyle": "black", 
-  "navigationBarBackgroundColor": "#ffffff", 
-  "navigationBarTitleText": "聊天码", 
-  "backgroundColor": "#bdbdbd", 
-  "enablePullDownRefresh": false, 
-  "backgroundTextStyle": "dark"
-}
