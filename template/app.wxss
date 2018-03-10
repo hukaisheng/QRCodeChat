@@ -144,17 +144,18 @@ radio-group{
 .wx-view_4eNITR{min-height: 0px; }
 .wx-text_personal_zy{font-size: 14px; overflow:  hidden; position:  static; -webkit-line-clamp:  1; color:  rgb(9, 187, 7); border:  1px solid rgb(9, 187, 7); border-bottom-right-radius:  5px; border-bottom-left-radius:  5px; border-top-right-radius:  5px; border-top-left-radius:  5px; padding:  5px; }
 .wx-view_yuefRM{display:  flex; flex-direction:  column; justify-content:  space-between; height: 100%; }
+.wx-view_gm4Gpi{position:  fixed; bottom:  0px; display:  block; width:  100%; background-color:  rgb(244, 244, 244); padding-top:  10px; border-width:  0.5px; border-color:  rgb(229, 229, 229); border-top-style:  solid; padding-bottom: 5px; }
 .wx-button_2umPnF{margin-right: 22px; margin-left:  22px; }
-.wx-text_ijL8Fc{font-size:  12px; text-align:  center; margin-top:  10px; color: #888888; }
+.wx-text_ijL8Fc{font-size:  12px; text-align:  center; margin-top: 5px; color:  rgb(136, 136, 136); }
 .wx-text_mvZC3v{font-size:  16px; line-height:  24px; letter-spacing:  1.5px; }
 .wx-scroll-view_2C2L1n{position:  relative; padding-top: 20px; }
-.wx-view_l9Njpf{min-height:  10px; border-top-width:  1px; border-top-color:  rgb(229, 229, 229); border-top-style: solid; }
+.wx-view_l9Njpf{min-height:  10px; border-top-width:  1px; border-top-color:  rgb(229, 229, 229); border-top-style:  solid; background-color:  rgb(244, 244, 244); position: relative; width:  100%; }
 .wx-view_1S89so{display:  flex; margin-left:  22px; margin-right: 22px; }
 .wx-view_lsGC6H{height:  80px; width: 80px; }
 .wx-image_YLh0i5{height:  80px; width:  80px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-top-left-radius: 5px; }
 .wx-view_pSwzzJ{margin-left:  15px; padding-top: 15px; }
 .wx-view_4GRkp5{margin-top:  25px; margin-bottom:  25px; min-height:  1px; background-color:  rgb(229, 229, 229); border-width:  60px; width:  55px; margin-left: 22px; }
-.wx-view_ZE739Y{min-height:  0px; margin-left:  22px; margin-right:  22px; padding-bottom: 10px; }
+.wx-view_ZE739Y{min-height:  0px; margin-left:  26px; margin-right: 26px; padding-bottom:  100px; }
 .wx-view_V4XgdT{position:  relative; text-align:  center; margin-left:  auto; margin-right:  auto; margin-bottom: 40px; }
 .wx-view_aDQMXx{min-height:  0px; margin-left:  20px; margin-right:  20px; display:  flex; background-color:  rgb(255, 255, 255); align-items:  center; padding-left: 10px; }
 .wx-input_jM7Nqx{height:  45px; background-color:  rgb(255, 255, 255); font-size: 14px; padding-left:  5px; border-radius:  5px; }
@@ -226,7 +227,7 @@ radio-group{
 .wx-view_liaotian.c-state1{height: 250px; }
 .wx-image_2ftFzY2{width:  30px; height: 30px; }
 .wx-image_2ftFzY3{width:  30px; height: 30px; }
-.wx-view_mf8Ovy20{min-height:  0px; height:  30px; width: 90px; background-color:  transparent; margin-right:  0px; font-size:  16px; position:  relative; padding-right:  0px; border-bottom-right-radius:  5px; border-bottom-left-radius:  5px; border-top-right-radius:  5px; border-top-left-radius:  5px; }
+.wx-view_mf8Ovy20{min-height:  0px; height:  30px; width:  90px; margin-right:  0px; font-size:  16px; position:  relative; padding-right:  0px; border-bottom-right-radius:  5px; border-bottom-left-radius:  5px; border-top-right-radius:  5px; border-top-left-radius:  5px; display:  flex; justify-content:  center; align-items:  center; background-color: rgba(244,244,244,1); }
 .wx-view_XAoeKx01{min-height:  30px; margin:  0px auto auto; left:  0px; right:  0px; top:  0px; bottom:  0px; position:  static; display:  flex; justify-content:  center; align-items:  center; width:  100%; background-color: transparent; border-bottom-right-radius:  3px; border-bottom-left-radius:  3px; border-top-right-radius:  3px; border-top-left-radius:  3px; }
 .wx-view_XAoeKx2{min-height:  30px; margin:  0px auto auto; left:  0px; right:  0px; top:  0px; bottom:  0px; position:  static; display:  flex; justify-content:  center; align-items:  center; width:  100%; background-color: transparent; border-bottom-right-radius:  3px; border-bottom-left-radius:  3px; border-top-right-radius:  3px; border-top-left-radius:  3px; }
 .wx-button_xzADzG3{height:  37px; font-size:  16px; margin-bottom:  auto; left:  0px; right:  0px; top:  0px; bottom:  0px; position:  relative; display:  block; overflow:  visible; width:  100%; border-width:  0px; }

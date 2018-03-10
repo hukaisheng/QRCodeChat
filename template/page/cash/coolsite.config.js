@@ -6,7 +6,7 @@ var actions = [
       "args": {
         "confirmColor": "rgba(9,187,7,1)", 
         "e_ids": [], 
-        "confirmText": "确认", 
+        "confirmText": "继续提现", 
         "showCancel": "checked", 
         "title": "收费提示", 
         "a_ids": [], 

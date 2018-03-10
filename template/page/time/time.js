@@ -17,16 +17,6 @@ Page({
 
   data: {
   
-    
-    wx_view_157c625e:{
-      class: "c-initHide"
-    },
-    
-    wx_view441fbf20:{
-      class: "c-initHide"
-    },
-    
-  
 
   
 
@@ -85,12 +75,7 @@ Page({
     app.coolsite360.fireEvent(e,this);
   },
   
-  tap_8cf7ab65:function(e){
-    //触发coolsite360交互事件
-    app.coolsite360.fireEvent(e,this);
-  },
-  
-  tap_503d90d0:function(e){
+  tap_65f7665e:function(e){
     //触发coolsite360交互事件
     app.coolsite360.fireEvent(e,this);
   },
