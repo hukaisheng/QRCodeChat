@@ -4,62 +4,21 @@ var actions = [
     "element_id": "wx_button_ece2ffda", 
     "data": {
       "args": {
-        "e_ids": [
-          "wx_view_157c625e"
-        ], 
-        "st": 1, 
-        "a_ids": []
-      }, 
-      "type": 0, 
-      "exec": 1
-    }, 
-    "id": "M_8072aee9335ed625", 
-    "isNew": true
-  }, 
-  {
-    "element_id": "wx_button_ece2ffda", 
-    "data": {
-      "args": {
+        "duration": "1200", 
+        "a_ids": [], 
         "e_ids": [], 
         "st": 1, 
-        "a_ids": [
-          "ani_872f61f9971dbbd1"
-        ]
+        "title": "保存成功"
       }, 
       "type": 0, 
-      "exec": 0
+      "exec": 103
     }, 
-    "id": "M_30d5d50126292973", 
+    "id": "M_ea9737fcc58a7151", 
     "isNew": true
   }
 ];
 
-var animations = [
-  {
-    "data": {
-      "type": 4, 
-      "t": {
-        "rv": 0, 
-        "rp": 0, 
-        "name": "", 
-        "wa": 0, 
-        "de": 1.5, 
-        "st": 2, 
-        "du": 0.1, 
-        "type": 4, 
-        "es": 0
-      }, 
-      "d": {
-        "dt": 0, 
-        "di": 0
-      }
-    }, 
-    "element_id": "wx_view_157c625e", 
-    "iType": "ani", 
-    "id": "ani_872f61f9971dbbd1", 
-    "isNew": true
-  }
-];
+var animations = [];
 
 var timelines = [
   {

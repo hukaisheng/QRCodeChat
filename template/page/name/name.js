@@ -17,12 +17,6 @@ Page({
 
   data: {
   
-    
-    wx_view_157c625e:{
-      class: "c-initHide"
-    },
-    
-  
 
   
 

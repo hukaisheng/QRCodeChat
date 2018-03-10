@@ -1,22 +1,13 @@
 <view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
-    <view animation="{{wx_view_157c625e.animation}}" class="c-minheight wx-view_X2wapj {{wx_view_157c625e.class}}" data-c_e_id="wx_view_157c625e" style="">
-        <text class="c-block wx-text_IPeBq7" data-c_e_id="wx_text_8406005a">保存成功</text>
-    </view>
     <view class="c-minheight wx-view_F3pWrb7" data-c_e_id="wx_viewaefc72a0">
         <input class="c-block c-fullwidth wx-input_6MB9hn2" data-c_e_id="wx_input_f3dcdf90" maxlength="5" name="input1" placeholder="20" type="number"/>
-        <view class="c-minheight wx-view_mf8Ovy20" data-c_e_id="wx_view8ab064c9">
-            <view catchtap="tap_8cf7ab65" class="c-minheight wx-view_XAoeKx0 {{wx_view_13b0553f.class}}" data-c_act_id="M_88365f6dd5883cfe|M_7c77b4b2c7938e39" data-c_e_id="wx_view_13b0553f">
-                <text class="c-block wx-text_ZiXvpu" data-c_e_id="wx_text_a805f118">分钟</text>
-                <image class="wx-image_2ftFzY" data-c_e_id="wx_image_0e611123" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png); "/>
-            </view>
-            <view catchtap="tap_503d90d0" class="c-minheight wx-view_XAoeKx1 {{wx_view441fbf20.class}}" data-c_act_id="M_dc69d8395d47c1d9|M_6ffd617b76517e1e" data-c_e_id="wx_view441fbf20">
-                <text class="c-block wx-text_ZiXvpu" data-c_e_id="wx_text89e93352">小时</text>
-                <image class="wx-image_2ftFzY" data-c_e_id="wx_image47c3e949" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png); "/>
-            </view>
+        <view catchtap="tap_65f7665e" class="c-minheight wx-view_mf8Ovy20" data-c_act_id="M_6de845b9f81c9327" data-c_e_id="wx_view8ab064c9">
+            <text class="c-block wx-text_ZiXvpu" data-c_e_id="wx_text_a805f118">分钟</text>
+            <image class="wx-image_2ftFzY" data-c_e_id="wx_image_0e611123" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/ca77ce6b0dd56a796e108c9f3c2254d8_origin.png); "/>
         </view>
     </view>
     <text class="c-block wx-text_Mwkglu2" data-c_e_id="wx_text_283cc8c8">最短1分钟，最长24小时。</text>
-    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_8072aee9335ed625|M_30d5d50126292973" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
+    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_33459fdfdedb9e8a" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
         保存
     </button>
 </view>

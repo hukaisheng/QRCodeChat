@@ -2,7 +2,7 @@
   "navigationBarTextStyle": "white", 
   "navigationBarBackgroundColor": "#09bb07", 
   "navigationBarTitleText": "使用演示", 
-  "backgroundColor": "#bdbdbd", 
+  "backgroundColor": "#09bb07", 
   "enablePullDownRefresh": false, 
   "backgroundTextStyle": "dark"
 }
